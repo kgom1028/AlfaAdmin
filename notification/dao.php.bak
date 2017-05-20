@@ -1,0 +1,11 @@
+<?php
+	require_once 'db-config.php';
+
+	function connectDB() {
+		Global $dbhost, $dbname, $username, $password;
+		$con = mysqli_connect($dbhost,$username,$password,$dbname) ;
+		
+		mysql_select_db($dbname, $con);
+		return $con;
+	}
+?>

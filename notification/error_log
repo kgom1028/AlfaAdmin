@@ -1,0 +1,52 @@
+[26-Jul-2016 20:44:07 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:44:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:44:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:44:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:44:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:44:37 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:44:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:44:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:44:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:44:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:44:39 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:44:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:44:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:44:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:44:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:45:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:45:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:45:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:45:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:45:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:45:15 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:45:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:45:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:45:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:45:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:46:11 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rocknlos_db'@'192.185.193.122' (using password: YES) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:46:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:46:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:46:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:46:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:46:21 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rocknlos_db'@'192.185.193.122' (using password: YES) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:46:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:46:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:46:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:46:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[26-Jul-2016 20:46:49 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rocknlos_db'@'192.185.193.122' (using password: YES) in /home/rocknlose/public_html/notification/dao.php on line 6
+[26-Jul-2016 20:46:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 10
+[26-Jul-2016 20:46:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 12
+[26-Jul-2016 20:46:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rocknlose/public_html/notification/sendmsg.php on line 24
+[26-Jul-2016 20:46:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rocknlose/public_html/notification/sendmsg.php on line 26
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38
+[27-Jul-2016 02:16:51 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit s in /home/rocknlose/public_html/notification/simplepush.php on line 38

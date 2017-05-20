@@ -1,0 +1,9 @@
+[27-Jul-2016 10:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$selfie_id' (T_VARIABLE) in /home/rocknlose/public_html/application/controllers/Api.php on line 539
+[27-Jul-2016 10:27:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$selfie_id' (T_VARIABLE) in /home/rocknlose/public_html/application/controllers/Api.php on line 539
+[27-Jul-2016 10:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$selfie_id' (T_VARIABLE) in /home/rocknlose/public_html/application/controllers/Api.php on line 539
+[27-Jul-2016 10:28:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$selfie_id' (T_VARIABLE) in /home/rocknlose/public_html/application/controllers/Api.php on line 539
+[27-Jul-2016 10:28:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$selfie_id' (T_VARIABLE) in /home/rocknlose/public_html/application/controllers/Api.php on line 539
+[27-Jul-2016 10:30:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rocknlose/public_html/application/controllers/Api.php on line 545
+[27-Jul-2016 10:30:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rocknlose/public_html/application/controllers/Api.php on line 545
+[28-Jul-2016 10:13:01 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/rocknlose/public_html/application/helpers/general_helper.php on line 40
+[28-Jul-2016 10:13:19 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/rocknlose/public_html/application/helpers/general_helper.php on line 40
