@@ -3,6 +3,8 @@
     $system_title   =   $this->db->get_where('settings' , array('type'=>'system_title'))->row()->description;
     $address   =   $this->db->get_where('settings' , array('type'=>'address'))->row()->description;
     $phone   =   $this->db->get_where('settings' , array('type'=>'phone'))->row()->description;
+    $front_title   =   $this->db->get_where('settings' , array('type'=>'front_title'))->row()->description;
+    $front_header   =   $this->db->get_where('settings' , array('type'=>'front_header'))->row()->description;
 ?>
 <div class="row">
 	<div class="col-md-12">
@@ -39,6 +41,18 @@
                                 <label class="col-sm-3 control-label"><?php echo get_phrase('email');?></label>
                                 <div class="col-sm-5">
                                     <input type="email" class="form-control" name="system_email" value="<?php echo $system_email?>"/>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label"><?php echo get_phrase('front_title');?></label>
+                                <div class="col-sm-5">
+                                    <input type="text" class="form-control" name="front_title" value="<?php echo $front_title?>"/>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label"><?php echo get_phrase('front_header');?></label>
+                                <div class="col-sm-5">
+                                    <input type="text" class="form-control" name="front_header" value="<?php echo $front_header?>"/>
                                 </div>
                             </div>
                             <div class="form-group">

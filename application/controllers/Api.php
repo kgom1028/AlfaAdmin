@@ -72,6 +72,8 @@ class Api extends CI_Controller
       $data['phone'] =  $this->db->get_where('settings' , array('type'=>'phone'))->row()->description;
       $data['email'] = $this->db->get_where('settings' , array('type'=>'system_email'))->row()->description;
       $data['address'] = $this->db->get_where('settings' , array('type'=>'address'))->row()->description;
+      $data['front_title'] = $this->db->get_where('settings' , array('type'=>'front_title'))->row()->description;
+      $data['front_header'] = $this->db->get_where('settings' , array('type'=>'front_header'))->row()->description;
       $return_ary['response'] = 'success';
       $return_ary['data'] = $data;
 

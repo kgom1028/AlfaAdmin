@@ -20,6 +20,24 @@ foreach ( $edit_data as $row):
                             <input type="number" step="0.001" class="form-control" name="rate" value="<?php echo $row['rate'];?>"/>
                         </div>
                     </div>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label"><?php echo get_phrase('contact_1');?></label>
+                        <div class="col-sm-5">
+                            <input type="text" class="form-control" name="contact_1" value="<?php echo $row['contact_1'];?>"/>
+                        </div>
+                    </div>    
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label"><?php echo get_phrase('contact_2');?></label>
+                        <div class="col-sm-5">
+                            <input type="text" class="form-control" name="contact_2" value="<?php echo $row['contact_2'];?>"/>
+                        </div>
+                    </div>  
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label"><?php echo get_phrase('contact_3');?></label>
+                        <div class="col-sm-5">
+                            <input type="text" class="form-control" name="contact_3" value="<?php echo $row['contact_3'];?>"/>
+                        </div>
+                    </div>                       
                		<div class="form-group">
 						<div class="col-sm-offset-3 col-sm-5">
 							<button type="submit" class="btn btn-info"><?php echo get_phrase('edit');?></button>

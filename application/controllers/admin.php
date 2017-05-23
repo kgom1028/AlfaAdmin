@@ -83,6 +83,14 @@ class Admin extends CI_Controller
            $data['description'] = $this->input->post('system_email');
            $this->db->where('type' , 'system_email');
            $this->db->update('settings' , $data);
+           
+           $data['front_title'] = $this->input->post('front_title');
+           $this->db->where('type' , 'front_title');
+           $this->db->update('settings' , $data);
+           
+           $data['front_header'] = $this->input->post('front_header');
+           $this->db->where('type' , 'front_header');
+           $this->db->update('settings' , $data);
 
           redirect(base_url() . 'index.php?admin/manage_contact/', 'refresh');
         }
@@ -116,11 +124,14 @@ class Admin extends CI_Controller
         redirect(base_url() . 'index.php?login', 'refresh');
       if ($param1 == 'do_update') {
         $data['rate']  = $this->input->post('rate');
+        $data['contact_1'] = $this->input->post('contact_1');
+        $data['contact_2'] = $this->input->post('contact_2');
+        $data['contact_3'] = $this->input->post('contact_3');
         $this->db->where('id', $param2);
         $this->db->update('transfer_rate', $data);
         redirect(base_url() . 'index.php?admin/manage_transfer_rate/', 'refresh');
       }
-      $sql = "select A.id, A.rate, B.country_name as from_country_name, C.country_name as to_country_name  from transfer_rate as A left join country as B on A.from_country_id = B.id left join country as C on A.to_country_id = C.id order by A.id";
+      $sql = "select A.id, A.rate, A.contact_1, A.contact_2, A.contact_3, B.country_name as from_country_name, C.country_name as to_country_name  from transfer_rate as A left join country as B on A.from_country_id = B.id left join country as C on A.to_country_id = C.id order by A.id";
       $tranfer_rates = get_sql_result_arr($sql);
       $page_data['tranfer_rates'] = $tranfer_rates;
       $page_data['page_name']  = 'manager_transfer_rate';

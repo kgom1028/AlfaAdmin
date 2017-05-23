@@ -20,6 +20,9 @@
                     		<th><div><?php echo get_phrase('from_country_name');?></div></th>
                             <th><div><?php echo get_phrase('to_country_name');?></div></th>
                             <th><div><?php echo get_phrase('rate');?></div></th>
+                            <th><div><?php echo get_phrase('contact_1');?></div></th>
+                            <th><div><?php echo get_phrase('contact_2');?></div></th>
+                            <th><div><?php echo get_phrase('contact_3');?></div></th>
                             <th><div><?php echo get_phrase('options');?></div></th>
 						</tr>
 					</thead>
@@ -32,6 +35,9 @@
 							<td><?php echo $row['from_country_name'];?></td>
                             <td><?php echo $row['to_country_name'];?></td>
                             <td><?php echo $row['rate'];?></td>      
+                            <td><?php echo $row['contact_1'];?></td>      
+                            <td><?php echo $row['contact_2'];?></td>      
+                            <td><?php echo $row['contact_3'];?></td>      
 		      				<td>
                             <div class="btn-group">
                                 <button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
